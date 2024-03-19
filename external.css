@@ -1,0 +1,13 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	color: red;
+	font-size: 55px;
+	flex-wrap: 700;
+}
+p{
+	background: yellow;
+	padding: 10px;
+}
